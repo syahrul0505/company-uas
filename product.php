@@ -43,14 +43,14 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="single-product-item text-center wow fadeInUp" data-wow-delay="300ms">
                                     <div class="img-holder">
-                                        <img src="assets/images/shop/1.jpg" alt="Awesome Product Image">
+                                        <img src="assets/images/product/menu-kopi.jpg" alt="Awesome Product Image">
                                         <div class="price">$250</div>
                                         <div class="overlay-btn"><a href="product-detail.php" class="theme-btn btn-style-one"><span class="btn-title">Add To Cart</span></a></div>
                                     </div>
                                     <div class="title-holder">
                                         <div class="static-content">
-                                            <div class="category">Business</div>
-                                            <h3 class="title"><a href="shop-single.html">Office Chair</a></h3>
+                                            <div class="category">Minuman</div>
+                                            <h3 class="title"><a href="shop-single.html">Menu Coffe</a></h3>
                                             <div class="rating">
                                                 <span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>
@@ -67,14 +67,14 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="single-product-item wow fadeInUp" data-wow-delay="500ms">
                                     <div class="img-holder">
-                                        <img src="assets/images/shop/2.jpg" alt="Awesome Product Image">
+                                        <img src="assets/images/product/kopi-kenangan.jpg" alt="Awesome Product Image">
                                         <div class="price">$250</div>
                                         <div class="overlay-btn"><a href="#" class="theme-btn btn-style-one"><span class="btn-title">Add To Cart</span></a></div>
                                     </div>
                                     <div class="title-holder">
                                         <div class="static-content">
-                                            <div class="category">Business</div>
-                                            <h3 class="title"><a href="shop-single.html">One of the best ux book</a></h3>
+                                            <div class="category">Minuman</div>
+                                            <h3 class="title"><a href="shop-single.html">Kopi Kenangan</a></h3>
                                             <div class="rating">
                                                 <span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>
@@ -91,14 +91,14 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="single-product-item wow fadeInUp" data-wow-delay="700ms">
                                     <div class="img-holder">
-                                        <img src="assets/images/shop/3.jpg" alt="Awesome Product Image">
+                                        <img src="assets/images/product/cappucino.jpg" alt="Awesome Product Image">
                                         <div class="price">$250</div>
                                         <div class="overlay-btn"><a href="#" class="theme-btn btn-style-one"><span class="btn-title">Add To Cart</span></a></div>
                                     </div>
                                     <div class="title-holder">
                                         <div class="static-content">
                                             <div class="category">Business</div>
-                                            <h3 class="title"><a href="shop-single.html">Office Chair</a></h3>
+                                            <h3 class="title"><a href="shop-single.html">Cappucino</a></h3>
                                             <div class="rating">
                                                 <span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>

@@ -25,6 +25,8 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="team.php">Team</a></li>
                             <li><a href="{{ route('contact-us') }}">Contact</a></li>
+                            <li><a href="{{ route('about-us') }}">About Us</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div>
                 </nav><!-- Main Menu End-->
