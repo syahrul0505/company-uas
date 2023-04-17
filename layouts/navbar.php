@@ -1,12 +1,12 @@
 <style>
-    .logo-sk{
-        width: 130px;
-    }
+.logo-sk {
+    width: 130px;
+}
 </style>
 <!-- Main Header -->
 <header class="main-header foxed-header">
     <!-- Header Top -->
-     
+
     <!-- Sticky Header  -->
     <div class="sticky-header fixed-header">
         <div class="auto-container clearfix">
@@ -22,7 +22,8 @@
                         <ul class="navigation clearfix">
                             <li><a href="index.php">Home</a></li>
                             <li><a href="product.php">Products</a></li>
-                            <li><a href="{{ route('about-us') }}">About Us</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="team.php">Team</a></li>
                             <li><a href="{{ route('contact-us') }}">Contact</a></li>
                         </ul>
                     </div>
@@ -36,10 +37,12 @@
     <div class="mobile-menu">
         <div class="menu-backdrop"></div>
         <div class="close-btn"><span class="icon flaticon-cancel"></span></div>
-        
+
         <nav class="menu-box">
             <div class="nav-logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
-            <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+            <div class="menu-outer">
+                <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+            </div>
             <!--Social Links-->
             <div class="social-links">
                 <ul class="clearfix">
@@ -64,7 +67,8 @@
             <form method="post" action="http://azim.commonsupport.com/Finandox/index.html">
                 <div class="form-group">
                     <fieldset>
-                        <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here" required >
+                        <input type="search" class="form-control" name="search-input" value="" placeholder="Search Here"
+                            required>
                         <input type="submit" value="Search Now!" class="theme-btn">
                     </fieldset>
                 </div>
@@ -79,6 +83,6 @@
                 <li><a href="#">Plan</a></li>
             </ul>
         </div>
-        
+
     </div>
 </div>
